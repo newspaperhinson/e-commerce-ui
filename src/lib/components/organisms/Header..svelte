@@ -5,7 +5,7 @@
 </script>
 
 <header
-	class="bg-surface-950 text-surface-50 flex items-center justify-between px-8 py-4 shadow-md"
+	class="bg-surface-50-950 text-surface-950-50 flex items-center justify-between px-8 py-4 shadow-md"
 >
 	<a href="/" class="flex items-center gap-2">
 		<Logo class="h-8 w-8" fill="currentColor" />

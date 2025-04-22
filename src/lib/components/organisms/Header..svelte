@@ -9,7 +9,7 @@
 >
 	<a href="/" class="flex items-center gap-2">
 		<Logo class="h-8 w-8" fill="currentColor" />
-		<p class="ml-2 text-xl font-bold">LogicMart</p>
+		<p class="text-xl font-bold">LogicMart</p>
 	</a>
 	<div class="relative cursor-pointer">
 		<span class="badge-icon preset-filled-surface-500 absolute -top-4 -right-4 z-10 h-2 w-2">3</span

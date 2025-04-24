@@ -11,6 +11,6 @@
 		Data Structures & Algorithms explained through real-world applications
 	</p>
 	<div class="flex gap-4">
-		<button class="btn btn-lg preset-filled-primary-500">Explore Our DSA Catalog</button>
+		<a href="/shop" class="btn btn-lg preset-filled-primary-500">Explore Our DSA Catalog</a>
 	</div>
 </section>
